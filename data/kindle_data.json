@@ -8,10 +8,16 @@
     "2026-02-20",
     "2026-02-21",
     "2026-02-22",
-    "2026-02-23"
+    "2026-02-23",
+    "2026-02-26"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-02-26T08:00:00.000Z",
+    "start": "2026-02-26T00:00:00.000Z",
+    "end": "2026-02-26T00:00:00.000Z",
+    "ttl": 1772168779
   },
   "longest_daily_streak": {
     "duration": 9,
@@ -23,17 +29,17 @@
   "current_weekly_streak": {
     "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-23T08:00:00.000Z",
+    "utcEndTime": "2026-02-26T08:00:00.000Z",
     "start": "2026-02-15T00:00:00.000Z",
-    "end": "2026-02-23T00:00:00.000Z",
-    "ttl": 1772082789
+    "end": "2026-02-26T00:00:00.000Z",
+    "ttl": 1772168779
   },
   "longest_weekly_streak": {
     "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-23T08:00:00.000Z",
+    "utcEndTime": "2026-02-26T08:00:00.000Z",
     "start": "2026-02-15T00:00:00.000Z",
-    "end": "2026-02-23T00:00:00.000Z"
+    "end": "2026-02-26T00:00:00.000Z"
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
@@ -45,6 +51,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "C4E4625A1A374A84B6A63759EC95334A",
+        "read_event_id": "6bb719df-0ada-46a5-9610-cb9807243bfa",
+        "date_read": "2026-02-26T09:02:06-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "C6CFD32E2B364C1690663C641DEBC27A",
         "read_event_id": "a3064d95-f374-45d8-a2e0-dbc2ca581f2a",
@@ -74,18 +88,18 @@
   },
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
-  "kindleHomeStreaksCardRevampTreatment": "C",
+  "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 34,
+    "daysLeftInCurrentChallenge": 33,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 5,
+    "totalEarnedAchievements": 6,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_PerfectWeek_36274a90-edba-34e4-86b8-da64e8cfa5c6.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_NobleSteed_02047b0f-8c16-44e2-be13-c7ddabc7df5f.png",
         "quantity": 1,
-        "title": "Perfect Week",
+        "title": "Noble Steed",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
