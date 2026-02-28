@@ -9,15 +9,16 @@
     "2026-02-21",
     "2026-02-22",
     "2026-02-23",
-    "2026-02-26"
+    "2026-02-26",
+    "2026-02-27"
   ],
   "current_daily_streak": {
-    "duration": 1,
+    "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-26T08:00:00.000Z",
+    "utcEndTime": "2026-02-27T08:00:00.000Z",
     "start": "2026-02-26T00:00:00.000Z",
-    "end": "2026-02-26T00:00:00.000Z",
-    "ttl": 1772168779
+    "end": "2026-02-27T00:00:00.000Z",
+    "ttl": 1772253343
   },
   "longest_daily_streak": {
     "duration": 9,
@@ -29,28 +30,44 @@
   "current_weekly_streak": {
     "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-26T08:00:00.000Z",
+    "utcEndTime": "2026-02-27T08:00:00.000Z",
     "start": "2026-02-15T00:00:00.000Z",
-    "end": "2026-02-26T00:00:00.000Z",
-    "ttl": 1772168779
+    "end": "2026-02-27T00:00:00.000Z",
+    "ttl": 1772253343
   },
   "longest_weekly_streak": {
     "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-26T08:00:00.000Z",
+    "utcEndTime": "2026-02-27T08:00:00.000Z",
     "start": "2026-02-15T00:00:00.000Z",
-    "end": "2026-02-26T00:00:00.000Z"
+    "end": "2026-02-27T00:00:00.000Z"
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {
       "TITLES_READ_YEAR_2026": {
-        "target_goal": 13,
+        "target_goal": 15,
         "has_been_congratulated": false,
         "source_origin": "KINDLE"
       }
     },
     "titles_read": [
+      {
+        "asin": "6A31D7039DEB44F18EE575A3E2B129BA",
+        "read_event_id": "8fe5e70c-3366-4bb8-9cd2-8e7228deda3e",
+        "date_read": "2026-02-27T07:57:00-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "1BC8AA27C0444EC39B4905964A597275",
+        "read_event_id": "84c0f4fb-6e82-4f1a-b62e-42fba2b25637",
+        "date_read": "2026-02-26T21:22:30-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "C4E4625A1A374A84B6A63759EC95334A",
         "read_event_id": "6bb719df-0ada-46a5-9610-cb9807243bfa",
@@ -90,7 +107,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 33,
+    "daysLeftInCurrentChallenge": 32,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 6,
     "achievementsDisplayAttributes": [
