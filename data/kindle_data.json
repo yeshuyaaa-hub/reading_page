@@ -11,15 +11,16 @@
     "2026-02-23",
     "2026-02-26",
     "2026-02-27",
-    "2026-02-28"
+    "2026-02-28",
+    "2026-03-01"
   ],
   "current_daily_streak": {
-    "duration": 3,
+    "duration": 4,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-28T08:00:00.000Z",
+    "utcEndTime": "2026-03-01T08:00:00.000Z",
     "start": "2026-02-26T00:00:00.000Z",
-    "end": "2026-02-28T00:00:00.000Z",
-    "ttl": 1772341882
+    "end": "2026-03-01T00:00:00.000Z",
+    "ttl": 1772428099
   },
   "longest_daily_streak": {
     "duration": 9,
@@ -29,19 +30,19 @@
     "end": "2026-02-23T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 2,
+    "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-28T08:00:00.000Z",
+    "utcEndTime": "2026-03-01T08:00:00.000Z",
     "start": "2026-02-15T00:00:00.000Z",
-    "end": "2026-02-28T00:00:00.000Z",
-    "ttl": 1772341882
+    "end": "2026-03-01T00:00:00.000Z",
+    "ttl": 1772428099
   },
   "longest_weekly_streak": {
-    "duration": 2,
+    "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-28T08:00:00.000Z",
+    "utcEndTime": "2026-03-01T08:00:00.000Z",
     "start": "2026-02-15T00:00:00.000Z",
-    "end": "2026-02-28T00:00:00.000Z"
+    "end": "2026-03-01T00:00:00.000Z"
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
@@ -116,16 +117,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 31,
+    "daysLeftInCurrentChallenge": 30,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 6,
+    "totalEarnedAchievements": 7,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_NobleSteed_02047b0f-8c16-44e2-be13-c7ddabc7df5f.png",
-        "quantity": 1,
-        "title": "Noble Steed",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_HeadStart_896ce0f2-38a8-30c7-b3ac-0715b1a782ba.png",
+        "quantity": 2,
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
