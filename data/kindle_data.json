@@ -12,15 +12,16 @@
     "2026-02-26",
     "2026-02-27",
     "2026-02-28",
-    "2026-03-01"
+    "2026-03-01",
+    "2026-03-02"
   ],
   "current_daily_streak": {
-    "duration": 4,
+    "duration": 5,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-01T08:00:00.000Z",
+    "utcEndTime": "2026-03-02T08:00:00.000Z",
     "start": "2026-02-26T00:00:00.000Z",
-    "end": "2026-03-01T00:00:00.000Z",
-    "ttl": 1772428099
+    "end": "2026-03-02T00:00:00.000Z",
+    "ttl": 1772514428
   },
   "longest_daily_streak": {
     "duration": 9,
@@ -32,17 +33,17 @@
   "current_weekly_streak": {
     "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-01T08:00:00.000Z",
+    "utcEndTime": "2026-03-02T08:00:00.000Z",
     "start": "2026-02-15T00:00:00.000Z",
-    "end": "2026-03-01T00:00:00.000Z",
-    "ttl": 1772428099
+    "end": "2026-03-02T00:00:00.000Z",
+    "ttl": 1772514428
   },
   "longest_weekly_streak": {
     "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-01T08:00:00.000Z",
+    "utcEndTime": "2026-03-02T08:00:00.000Z",
     "start": "2026-02-15T00:00:00.000Z",
-    "end": "2026-03-01T00:00:00.000Z"
+    "end": "2026-03-02T00:00:00.000Z"
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
@@ -54,6 +55,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "DC4DAB9F50C1458FB264687BA0B2F0FC",
+        "read_event_id": "852e3238-88d3-47ad-8220-bfd4ea969cbe",
+        "date_read": "2026-03-02T17:56:42-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "B0192CTMYG",
         "read_event_id": "25a421c6-b7a4-48a1-8544-d11400af5e1e",
@@ -117,7 +126,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 30,
+    "daysLeftInCurrentChallenge": 29,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 7,
     "achievementsDisplayAttributes": [
