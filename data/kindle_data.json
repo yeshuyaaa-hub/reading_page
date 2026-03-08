@@ -17,37 +17,38 @@
     "2026-03-03",
     "2026-03-04",
     "2026-03-05",
-    "2026-03-06"
+    "2026-03-06",
+    "2026-03-07"
   ],
   "current_daily_streak": {
-    "duration": 9,
+    "duration": 10,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-06T08:00:00.000Z",
+    "utcEndTime": "2026-03-07T08:00:00.000Z",
     "start": "2026-02-26T00:00:00.000Z",
-    "end": "2026-03-06T00:00:00.000Z",
-    "ttl": 1772858798
+    "end": "2026-03-07T00:00:00.000Z",
+    "ttl": 1772946079
   },
   "longest_daily_streak": {
-    "duration": 9,
+    "duration": 10,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-06T08:00:00.000Z",
+    "utcEndTime": "2026-03-07T08:00:00.000Z",
     "start": "2026-02-26T00:00:00.000Z",
-    "end": "2026-03-06T00:00:00.000Z"
+    "end": "2026-03-07T00:00:00.000Z"
   },
   "current_weekly_streak": {
     "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-06T08:00:00.000Z",
+    "utcEndTime": "2026-03-07T08:00:00.000Z",
     "start": "2026-02-15T00:00:00.000Z",
-    "end": "2026-03-06T00:00:00.000Z",
-    "ttl": 1772858798
+    "end": "2026-03-07T00:00:00.000Z",
+    "ttl": 1772946079
   },
   "longest_weekly_streak": {
     "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-06T08:00:00.000Z",
+    "utcEndTime": "2026-03-07T08:00:00.000Z",
     "start": "2026-02-15T00:00:00.000Z",
-    "end": "2026-03-06T00:00:00.000Z"
+    "end": "2026-03-07T00:00:00.000Z"
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
@@ -146,16 +147,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 25,
+    "daysLeftInCurrentChallenge": 24,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 8,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_BronzeReader_135d1a59-dd53-3262-9a3d-f97eb0adb5df.png",
-        "quantity": 1,
-        "title": "Bronze Reader",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_PerfectWeek_36274a90-edba-34e4-86b8-da64e8cfa5c6.png",
+        "quantity": 2,
+        "title": "Perfect Week",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
