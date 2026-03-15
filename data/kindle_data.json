@@ -24,48 +24,57 @@
     "2026-03-10",
     "2026-03-11",
     "2026-03-12",
-    "2026-03-13"
+    "2026-03-13",
+    "2026-03-14"
   ],
   "current_daily_streak": {
-    "duration": 16,
+    "duration": 17,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-13T07:00:00.000Z",
+    "utcEndTime": "2026-03-14T07:00:00.000Z",
     "start": "2026-02-26T00:00:00.000Z",
-    "end": "2026-03-13T00:00:00.000Z",
-    "ttl": 1773464510
+    "end": "2026-03-14T00:00:00.000Z",
+    "ttl": 1773553463
   },
   "longest_daily_streak": {
-    "duration": 16,
+    "duration": 17,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-13T07:00:00.000Z",
+    "utcEndTime": "2026-03-14T07:00:00.000Z",
     "start": "2026-02-26T00:00:00.000Z",
-    "end": "2026-03-13T00:00:00.000Z"
+    "end": "2026-03-14T00:00:00.000Z"
   },
   "current_weekly_streak": {
     "duration": 4,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-13T07:00:00.000Z",
+    "utcEndTime": "2026-03-14T07:00:00.000Z",
     "start": "2026-02-15T00:00:00.000Z",
-    "end": "2026-03-13T00:00:00.000Z",
-    "ttl": 1773464510
+    "end": "2026-03-14T00:00:00.000Z",
+    "ttl": 1773553463
   },
   "longest_weekly_streak": {
     "duration": 4,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-13T07:00:00.000Z",
+    "utcEndTime": "2026-03-14T07:00:00.000Z",
     "start": "2026-02-15T00:00:00.000Z",
-    "end": "2026-03-13T00:00:00.000Z"
+    "end": "2026-03-14T00:00:00.000Z"
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {
       "TITLES_READ_YEAR_2026": {
         "target_goal": 15,
-        "has_been_congratulated": false,
+        "has_been_congratulated": true,
         "source_origin": "KINDLE"
       }
     },
     "titles_read": [
+      {
+        "asin": "15AC067A93894BBA8E86BBF883CEFE28",
+        "read_event_id": "7a830719-58ec-4256-b712-ee272c07356c",
+        "date_read": "2026-03-14T00:47:49-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "9304B325D9D24F7F870DF3ADF4B92308",
         "read_event_id": "d9c5b56d-4791-4b26-b72f-99979e50d17b",
@@ -185,13 +194,13 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 18,
+    "daysLeftInCurrentChallenge": 17,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 8,
+    "totalEarnedAchievements": 9,
     "achievementsDisplayAttributes": [
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_PerfectWeek_36274a90-edba-34e4-86b8-da64e8cfa5c6.png",
-        "quantity": 2,
+        "quantity": 3,
         "title": "Perfect Week",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": true
