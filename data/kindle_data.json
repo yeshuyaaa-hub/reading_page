@@ -26,37 +26,38 @@
     "2026-03-12",
     "2026-03-13",
     "2026-03-14",
-    "2026-03-15"
+    "2026-03-15",
+    "2026-03-16"
   ],
   "current_daily_streak": {
-    "duration": 18,
+    "duration": 19,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-15T07:00:00.000Z",
+    "utcEndTime": "2026-03-16T07:00:00.000Z",
     "start": "2026-02-26T00:00:00.000Z",
-    "end": "2026-03-15T00:00:00.000Z",
-    "ttl": 1773640809
+    "end": "2026-03-16T00:00:00.000Z",
+    "ttl": 1773724450
   },
   "longest_daily_streak": {
-    "duration": 18,
+    "duration": 19,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-15T07:00:00.000Z",
+    "utcEndTime": "2026-03-16T07:00:00.000Z",
     "start": "2026-02-26T00:00:00.000Z",
-    "end": "2026-03-15T00:00:00.000Z"
+    "end": "2026-03-16T00:00:00.000Z"
   },
   "current_weekly_streak": {
     "duration": 5,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-15T07:00:00.000Z",
+    "utcEndTime": "2026-03-16T07:00:00.000Z",
     "start": "2026-02-15T00:00:00.000Z",
-    "end": "2026-03-15T00:00:00.000Z",
-    "ttl": 1773640809
+    "end": "2026-03-16T00:00:00.000Z",
+    "ttl": 1773724450
   },
   "longest_weekly_streak": {
     "duration": 5,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-15T07:00:00.000Z",
+    "utcEndTime": "2026-03-16T07:00:00.000Z",
     "start": "2026-02-15T00:00:00.000Z",
-    "end": "2026-03-15T00:00:00.000Z"
+    "end": "2026-03-16T00:00:00.000Z"
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
@@ -68,6 +69,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "8763D7244CBB4781908168C4F8A2554B",
+        "read_event_id": "1a780c59-0fa0-4a07-a213-2f688275b572",
+        "date_read": "2026-03-16T00:17:26-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "F84DB4424D734A618E836EF0E91BA09C",
         "read_event_id": "fc3c78f2-12c5-4b26-b180-7704aa589f43",
@@ -219,7 +228,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 16,
+    "daysLeftInCurrentChallenge": 15,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 9,
     "achievementsDisplayAttributes": [
