@@ -31,15 +31,16 @@
     "2026-03-17",
     "2026-03-18",
     "2026-03-20",
-    "2026-03-21"
+    "2026-03-21",
+    "2026-03-22"
   ],
   "current_daily_streak": {
-    "duration": 2,
+    "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-21T07:00:00.000Z",
+    "utcEndTime": "2026-03-22T07:00:00.000Z",
     "start": "2026-03-20T00:00:00.000Z",
-    "end": "2026-03-21T00:00:00.000Z",
-    "ttl": 1774156329
+    "end": "2026-03-22T00:00:00.000Z",
+    "ttl": 1774244898
   },
   "longest_daily_streak": {
     "duration": 21,
@@ -49,19 +50,19 @@
     "end": "2026-03-18T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 5,
+    "duration": 6,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-21T07:00:00.000Z",
+    "utcEndTime": "2026-03-22T07:00:00.000Z",
     "start": "2026-02-15T00:00:00.000Z",
-    "end": "2026-03-21T00:00:00.000Z",
-    "ttl": 1774156329
+    "end": "2026-03-22T00:00:00.000Z",
+    "ttl": 1774244898
   },
   "longest_weekly_streak": {
-    "duration": 5,
+    "duration": 6,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-21T07:00:00.000Z",
+    "utcEndTime": "2026-03-22T07:00:00.000Z",
     "start": "2026-02-15T00:00:00.000Z",
-    "end": "2026-03-21T00:00:00.000Z"
+    "end": "2026-03-22T00:00:00.000Z"
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
@@ -73,6 +74,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "245408D7B1A04E7084827F670EA67714",
+        "read_event_id": "11bcc41e-34fb-4c7c-b9a1-6e5082d535a9",
+        "date_read": "2026-03-22T01:42:53-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "8763D7244CBB4781908168C4F8A2554B",
         "read_event_id": "1a780c59-0fa0-4a07-a213-2f688275b572",
@@ -232,7 +241,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 10,
+    "daysLeftInCurrentChallenge": 9,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 9,
     "achievementsDisplayAttributes": [
